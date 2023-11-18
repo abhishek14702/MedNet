@@ -77,7 +77,7 @@ const Login = ({ history }) => {
 				<div className="top">
 					<div onClick={() => history.push("/")}>
 						<div className="logo">
-							<h1>HealthBridge</h1>
+							<h1>MedNet</h1>
 						</div>
 					</div>
 					<p>

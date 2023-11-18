@@ -52,7 +52,7 @@ const Home = ({ history }) => {
 								<h4>Disease Predicition</h4>
 								<p>
 									Predicition of Breast Cancer and Pneumonia from X-RAY Scans and also
-									patients can know the health status of their heart too.
+									patients can know the health status of their heart too. d
 								</p>
 							</div>
 						</div>
